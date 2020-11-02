@@ -15,4 +15,4 @@ Implement `get`, `put`, and `delete` functionality.
 
 Implement tests using the built-in `unittest` module.
 
-Submit as a pull request to this repo.
+Email a ZIP of the archive back to your Lambda contact. `git archive` might be useful.
