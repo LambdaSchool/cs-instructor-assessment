@@ -1,6 +1,6 @@
 # CS Instructor Assessment
 
-**Task: in Python, implement a hash table with chained collision resolution.**
+**Task: in Python, implement a hash table with chaining collision resolution.**
 
 You can use a linked list or Python's built-in list type for collision chaining.
 
