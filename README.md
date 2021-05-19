@@ -13,6 +13,14 @@ As a hashing function, implement either of:
 
 Implement `get`, `put`, and `delete` functionality.
 
+* `put(key, value)` -- add a new key/value pair, or replace existing key's value
+* `get(key)` -- return the value for a given key
+* `delete(key)` -- remove a key/value pair
+
+These operations should take Θ(1) average time.
+
 Implement tests using the built-in `unittest` module.
+
+Bonus: resize the hash table when the load factor exceeds 0.7.
 
 Email a ZIP of the archive back to your Lambda contact. `git archive` might be useful.
